@@ -17,9 +17,19 @@ Test Monkeyrunner
 
 ***if it is not working, it will display the following error message***
 
-![Jython Success](https://raw.githubusercontent.com/asengsaragih/Monkeyrunner/master/screenshoot/cmd.PNG)
+![Jython Success](https://raw.githubusercontent.com/asengsaragih/Monkeyrunner/master/screenshoot/ss%20monkeyrunner%20error.PNG)
 
 
+How to fix issue
+- Download file from https://bit.ly/2CCql0F
+- Open "C:\Users\*YourPcName*\AppData\Local\Android\Sdk".
+- Backup and Remove tools folder
+- Make new tools folder.
+- Extract file into new tools folder. and run again
+
+```diff
+- Only Android Studio 3.5.0
+```
 
 Run : 
 - Open location directory of monkeyrunner file. "C:\Users\*YourPcName*\AppData\Local\Android\Sdk\tools\bin".
